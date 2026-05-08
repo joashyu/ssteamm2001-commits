@@ -55,3 +55,4 @@ lesson commit 54 - Fri May  8 23:27:21 MSK 2026
 lesson commit 55 - Fri May  8 23:27:21 MSK 2026
 lesson commit 56 - Fri May  8 23:27:21 MSK 2026
 lesson commit 57 - Fri May  8 23:27:21 MSK 2026
+lesson commit 58 - Fri May  8 23:27:21 MSK 2026
