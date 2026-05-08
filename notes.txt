@@ -25,3 +25,4 @@ lesson commit 24 - Fri May  8 23:27:19 MSK 2026
 lesson commit 25 - Fri May  8 23:27:19 MSK 2026
 lesson commit 26 - Fri May  8 23:27:19 MSK 2026
 lesson commit 27 - Fri May  8 23:27:19 MSK 2026
+lesson commit 28 - Fri May  8 23:27:19 MSK 2026
