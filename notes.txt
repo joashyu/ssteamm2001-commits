@@ -92,3 +92,4 @@ lesson commit 91 - Fri May  8 23:27:23 MSK 2026
 lesson commit 92 - Fri May  8 23:27:23 MSK 2026
 lesson commit 93 - Fri May  8 23:27:23 MSK 2026
 lesson commit 94 - Fri May  8 23:27:23 MSK 2026
+lesson commit 95 - Fri May  8 23:27:23 MSK 2026
